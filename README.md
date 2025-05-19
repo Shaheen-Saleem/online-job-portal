@@ -12,3 +12,5 @@ Currently, two official plugins are available:
 # Online Job Portal
 
 The Online Job Portal project is a comprehensive, web-based platform developed to streamline the recruitment process for both job seekers and employers. This platform aims to bridge the gap between talented individuals and potential employers by providing an intuitive, user-friendly interface and a suite of advanced features.
+
+![image](https://github.com/user-attachments/assets/a897cf75-0269-4b92-ad7b-435bc3916194)
