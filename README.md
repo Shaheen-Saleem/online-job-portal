@@ -6,3 +6,9 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+---
+
+# Online Job Portal
+
+The Online Job Portal project is a comprehensive, web-based platform developed to streamline the recruitment process for both job seekers and employers. This platform aims to bridge the gap between talented individuals and potential employers by providing an intuitive, user-friendly interface and a suite of advanced features.
